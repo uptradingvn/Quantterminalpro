@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Nival — Cyberspace Identity",
+  "description": "A futuristic cyberspace identity landing page with a cursor-following spotlight mask reveal, responsive multi-tier stage scaling, and adaptive avatar customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
